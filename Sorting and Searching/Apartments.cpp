@@ -1,5 +1,6 @@
 // Problem Name: Apartments
 // Link to the Problem: https://cses.fi/problemset/task/1084
+// Link to the Solution: https://cses.fi/paste/7723787ff8da5986605a52/
 
 #include <iostream>
 #include<algorithm>
