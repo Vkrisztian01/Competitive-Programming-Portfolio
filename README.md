@@ -24,3 +24,5 @@ of them may feature Hungarian names for variables or functions. I have not adres
 
 CSES Problem Set: [Visit CSES](https://cses.fi/problemset/)  
 My Codeforces Profile: [Visit Codeforces](https://codeforces.com/profile/Vkrisztian)
+
+Additional content might be added to the portfolio in the future!
