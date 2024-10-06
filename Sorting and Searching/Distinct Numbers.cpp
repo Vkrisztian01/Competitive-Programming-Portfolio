@@ -1,5 +1,6 @@
 // Problem Name: Distinct Numbers
 // Link to The Problem: https://cses.fi/problemset/task/1621
+// Link to the Solution: https://cses.fi/paste/d6d832d212a65b3f6059db/
 
 #include <iostream>
 #include<set>
