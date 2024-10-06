@@ -1,5 +1,5 @@
 //Name: Distinct Numbers
-//Category: Sorting and Searchning
+//Category: Sorting and Searching
 //Link: https://cses.fi/problemset/task/1621
 
 
