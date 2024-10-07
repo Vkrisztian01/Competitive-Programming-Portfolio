@@ -2,8 +2,8 @@
 
 ### Overview
 
-This portfolio displays a collection of problems I tackled from the famous **CSES Problem Set**. The goal of this repository is to showcase
-my **Algorithmic Problem Solving** skills, as well as to demonstrate the methology I use when it comes to Competitive Programming Training.
+This portfolio displays a collection of elementary problems I tackled from the famous **CSES Problem Set**. The goal of this repository is to showcase
+the range of my **Algorithmic Problem Solving** skills, as well as to demonstrate the methology I use when it comes to Competitive Programming Training.
 
 ### Problem Categories
 
