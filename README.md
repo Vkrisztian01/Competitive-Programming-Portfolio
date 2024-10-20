@@ -20,7 +20,7 @@ Geometry
 ### Additional Clarification for the Viewer
 
 Most of the problems are picked from the CSES Problem Set. Note that, all codes in this repository have been written using a ******C++****** syntax.
-Inside the codes, the viewer may find the name of the problem as well as links to the website. Althogh the codes are primarily written in English, some
+Inside the codes, the viewer may find the name of the problem as well as links to the website. Although the codes are primarily written in English, some
 of them may feature Hungarian names for variables or functions. I have not adressed this problem as I beleive this reflects my evolving coding style.
 
 ### Links
