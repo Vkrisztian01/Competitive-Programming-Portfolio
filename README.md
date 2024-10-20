@@ -9,7 +9,7 @@ these topics can get in competitions.
 
 ### Problem Categories
 
-Advanced Problems
+Advanced Problems  
 Sorting and Searching  
 Dynamic Programming  
 Graph/Tree Algorithms  
