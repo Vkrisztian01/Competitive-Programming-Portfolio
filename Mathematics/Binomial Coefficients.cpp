@@ -1,6 +1,8 @@
 // Problem Name: Binomial Coefficients
-// Link to the Problem: https://cses.fi/paste/8772ac9965ea2322a694dc/
-// Link to the Solution: #include <iostream>
+// Link to the Problem: https: https://cses.fi/problemset/task/1079/
+// Link to the Solution: https: //cses.fi/paste/8772ac9965ea2322a694dc/
+
+#include <iostream>
 #include<bits/stdc++.h>
 using ll = long long ;
 ll const MOD = 1e9 + 7 ;
