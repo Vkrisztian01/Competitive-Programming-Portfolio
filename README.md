@@ -25,8 +25,8 @@ of them may feature Hungarian names for variables or functions. I have not adres
 
 ### Links
 
-CSES Problem Set: [Visit CSES](https://cses.fi/problemset/) 
+CSES Problem Set: [Visit CSES](https://cses.fi/problemset/)  
 My CSES Profile: [Visit CSES](https://cses.fi/user/163133)  
-My Codeforces Profile: [Visit Codeforces](https://codeforces.com/profile/Vkrisztian)  
+My Codeforces Profile: [Visit Codeforces](https://codeforces.com/profile/Vkrisztian)   
 
 Additional content might be added to the portfolio in the future!
