@@ -2,8 +2,8 @@
 
 ### Overview
 
-This portfolio displays a collection of elementary problems I tackled from the famous **CSES Problem Set**. The goal of this repository is to showcase
-the range of my **Algorithmic Problem Solving** knowledge, as well as to demonstrate the methology I use when it comes to Competitive Programming Training.
+This portfolio displays a collection of elementary problems I tackled from the famous **CSES Problem Set**. The goal of this repository is to demonstrate
+the range of my **Algorithmic Problem Solving** knowledge, as well as to show the methology I use when it comes to Competitive Programming Training.
 Additionally, the viewer may also find a collection of **Advanced Problems** that I selected from multiple platforms. These problems are to demonstrate how challanging
 these topics can get in competitions.
 
@@ -12,7 +12,7 @@ these topics can get in competitions.
 Advanced Problems  
 Sorting and Searching  
 Dynamic Programming  
-Graph/Tree Algorithms  
+Graph and Tree Algorithms  
 Range Queries  
 Mathematics    
 Geometry   
@@ -25,7 +25,8 @@ of them may feature Hungarian names for variables or functions. I have not adres
 
 ### Links
 
-CSES Problem Set: [Visit CSES](https://cses.fi/problemset/)  
-My Codeforces Profile: [Visit Codeforces](https://codeforces.com/profile/Vkrisztian)
+CSES Problem Set: [Visit CSES](https://cses.fi/problemset/) 
+My CSES Profile: [Visit CSES](https://cses.fi/user/163133)  
+My Codeforces Profile: [Visit Codeforces](https://codeforces.com/profile/Vkrisztian)  
 
 Additional content might be added to the portfolio in the future!
