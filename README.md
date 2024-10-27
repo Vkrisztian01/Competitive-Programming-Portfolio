@@ -2,10 +2,7 @@
 
 ### Overview
 
-This portfolio displays a collection of elementary problems I tackled from the famous **CSES Problem Set**. The goal of this repository is to demonstrate
-the range of my **Algorithmic Problem Solving** knowledge, as well as to show the methology I use when it comes to Competitive Programming Training.
-Additionally, the viewer may also find a collection of **Advanced Problems** that I selected from multiple platforms. These problems are to demonstrate how challanging
-these topics can get in competitions.
+This portfolio showcases a collection of algorithmic challenges I have tackled, mostly from the ***CSES Problem Set***.
 
 ### Problem Categories
 
