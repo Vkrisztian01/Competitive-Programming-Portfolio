@@ -2,7 +2,7 @@
 
 ### Overview
 
-This portfolio showcases a collection of algorithmic challenges I have tackled, mostly from the ***CSES Problem Set***.
+This portfolio showcases a collection of algorithmic challenges I have tackled, mostly from the **CSES Problem Set**.
 
 ### Problem Categories
 
