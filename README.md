@@ -2,7 +2,7 @@
 
 ### Overview
 
-This portfolio showcases a collection of algorithmic challenges I have tackled, mostly from the ****CSES Problem Set****. The aim of this repository is to demonstrate my ****Algorithmic Problem Solving**** skills and the methology I use for my Competitive Programming training. Additionally, the viewer will find a selection of ****Advanced Problems****, primarily drawn from Codeforces to illustrate the complexity of the different topics in competitions.
+This portfolio showcases a collection of algorithmic challenges I have tackled, mostly from the ****CSES Problem Set****. The aim of this repository is to demonstrate my ****Algorithmic Problem Solving**** skills and the methodology I use for my Competitive Programming training. Additionally, the viewer will find a selection of ****Advanced Problems****, primarily drawn from Codeforces to illustrate the complexity of the different topics in competitions.
 
 ### Problem Categories
 
