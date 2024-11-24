@@ -1,5 +1,6 @@
 // Problem Name: Xum
 // Link to the Problem: https://codeforces.com/contest/1427/problem/E
+// Link to the Solution: https://codeforces.com/contest/1427/submission/293055464
 
 #include <iostream>
 #include<bits/stdc++.h>
