@@ -17,6 +17,7 @@ Geometry
 ### Additional Clarification for the Viewer
 
 Most of the problems are picked from the CSES Problem Set. Note that all solutions in this repository are written using ****C++**** syntax. Inside the solutions, the viewer may find the name of the problem as well as links to the website. Although the solutions are primarily written in English, some of them may feature Hungarian names for variables or functions. I have not addressed this issue, as I believe it reflects my evolving coding style.
+In some of the problems the help of artificial intelligence was involved, primarily with the debugging.
 
 ### Links
 
